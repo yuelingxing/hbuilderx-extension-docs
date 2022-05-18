@@ -33,4 +33,4 @@ ActionScript, Ada, ASM, ASP, AutoIt, Batch, C, Clojure, CMake, Cobol, CoffeeScri
 
 ## 创建语言语法高亮支持插件
 
-如果您未在插件市场找到您需要的编程语言插件，您可创建此类创建。[教程](/ExtensionTutorial/language_grammars)
+如果您未在插件市场找到您需要的编程语言插件，您可创建此类插件。[教程](/ExtensionTutorial/language_grammars)
